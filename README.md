@@ -1,4 +1,4 @@
-# alpine-klipper
+# alpine-hass
 
 Automated hass/zigbee2mqtt/node-red installation script for Alpine Linux to use with [alpine-raspberry-pi](https://github.com/knoopx/alpine-raspberry-pi)
 
